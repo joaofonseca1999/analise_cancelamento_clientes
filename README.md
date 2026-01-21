@@ -2,7 +2,9 @@
 
 ## 📌 Descrição do Projeto
 Este projeto faz parte da **Jornada Python** e tem como objetivo realizar uma **análise de dados de cancelamento de clientes** em uma empresa fictícia.  
-Através da manipulação e tratamento de dados com **Pandas** e da criação de gráficos com **Plotly**, buscamos identificar padrões de cancelamento e propor soluções para reduzir a taxa de churn.
+Através da manipulação e tratamento de dados com **Pandas** e da criação de gráficos com **Plotly**, buscamos identificar padrões de cancelamento e propor soluções para reduzir a taxa de cancelamento.
+Case: A empresa percebeu que da sua base total de clientes, a maioria são clientes inativos, ou seja, que já cancelaram o serviço.
+Precisando melhorar seus resultados ela quer conseguir entender os principais motivos desses cancelamentos e quais as ações mais eficientes para reduzir esse número.
 
 ---
 
